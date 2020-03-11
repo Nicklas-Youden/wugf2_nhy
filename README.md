@@ -1,2 +1,6 @@
-# wugf2_nhy
-til at teste og afprøve med
+# Mit første repo på Github
+
+til at teste og afprøve github
+med commits - Branches og pull requests
+
+`code is love`
